@@ -46,4 +46,4 @@ Untuk mengunduh dan menginstal bahasa python, sesuaikan dengan sistem operasi ya
 [windows-guide]: ./install_windows/install_python_windows.md
 [linux-guide]: ./install_linux/install_python_linux.md
 [vscode-guide]: ./vscode_guide.md
-[materi]: https://github.com/putuwahyu29/Learning_Python/tree/master/Materi
+[materi]: ./Materi/README.md
