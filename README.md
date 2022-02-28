@@ -43,7 +43,7 @@ Untuk mengunduh dan menginstal bahasa python, sesuaikan dengan sistem operasi ya
 
 <!-- Internal Link -->
 
-[windows-guide]: ./install_windows/install_pascal_windows.md
-[linux-guide]: ./install_linux/install_pascal_linux.md
+[windows-guide]: ./install_windows/install_python_windows.md
+[linux-guide]: ./install_linux/install_python_linux.md
 [vscode-guide]: ./vscode_guide.md
-[materi]: https://github.com/putuwahyu29/Learning_Pascal/tree/master/Source%20Code
+[materi]: https://github.com/putuwahyu29/Learning_Python/tree/master/Materi
