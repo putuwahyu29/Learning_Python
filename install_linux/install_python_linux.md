@@ -7,8 +7,10 @@ Pada dasarnya, Python sebenarnya sudah terinstal secara default pada linux berba
 2. Download versi Pythn yang diinginkan. Disarankan versi yang terbaru
   <img src="./img/1.png"/>
 3. Namun, kita tidak menggunakan Python tersebut karena kita akan menggunakan tool data sains yang sangat keren yaitu Anaconda.
+
 4. Unduh anaconda pada link berikut ini:
   > https://www.anaconda.com/download/
+
 5. Silahkan unduh sesuai sistem operasi yang digunakan. Pada tutorial ini kita menggunakan Ubuntu.
   <img src="./img/2.png"/>
 6. Kemudian jalankan file sh tersebut melalui terminal dengan kode `bash Anaconda3-2021.11-Linux-x86_64.sh`
